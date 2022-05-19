@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´M JULIA 👋
 
 - 🔭 I’m currently working on to become a great web developer
 - 🌱 I’m currently learning how i use GitHub
